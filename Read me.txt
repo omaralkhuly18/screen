@@ -1,0 +1,14 @@
+my name : omar ramadan omar
+
+use of project : html css bootstrab ajax js php mysql
+
+8. Link for admin Panel : http://localhost/shopping/admin
+
+Login Details For User :
+
+Username : anuj.lpu1@gmail.com
+Password : Test@123
+
+For Admin :
+User Name : admin
+Password : Test@123
